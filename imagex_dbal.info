@@ -1,0 +1,7 @@
+name = ImageX - Database
+description = Common database helpers for all ImageX modules.
+package = ImageX
+version = 7.x-dev
+core = 7.x
+
+files[] = includes/ImagexDatabase.class.inc
